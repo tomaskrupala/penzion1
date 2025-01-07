@@ -1,0 +1,26 @@
+{
+  "name": "penzion1",
+  "version": "1.0.0",
+  "description": "skolni webovy projekt",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomaskrupala/penzion1.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "Tomas krupala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomaskrupala/penzion1/issues"
+  },
+  "homepage": "https://github.com/tomaskrupala/penzion1#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
